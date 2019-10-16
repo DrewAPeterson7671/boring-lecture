@@ -1,12 +1,7 @@
-h2.intro {
+.intro {
   text-align: center;
   color: purple;
 }
-
-p.intro {
-    color: blue;
-    text-align: center;
-  }
 
 img.intro {
   display: block;
