@@ -1,0 +1,16 @@
+h2.intro {
+  text-align: center;
+  color: purple;
+}
+
+p.intro {
+    color: blue;
+    text-align: center;
+  }
+
+img.intro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+}
